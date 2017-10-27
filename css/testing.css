@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+.layer {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
+
+#layer1 {
+    background: url("../img/layer1.jpg");
+}
+
+#layer2 {
+    background: url("../img/layer2.png");
+}
+
+#layer3 {
+    background: url("../img/layer3.png");
+}
+
+#layer4 {
+    background: url("../img/layer4.png");
+}
+
+#layer5 {
+    background: url("../img/layer5.png");
+}
